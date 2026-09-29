@@ -1,0 +1,3 @@
+@echo off
+cd C:\Users\syste\eclipse-workspace\myselenium\run.bat
+mvn test
